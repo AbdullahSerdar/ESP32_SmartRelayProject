@@ -708,7 +708,7 @@ void app_main(void)
     wait_for_time_sync();
     ESP_LOGI("MAIN", "wait_for_time_sync tamamlandı");
     
-    bool login_ok = do_login_request("serdarilhan223@gmail.com", "abdullahilhan");
+    bool login_ok = do_login_request("(gmail adresi)", "(sifre)");
     if (!login_ok) {
         ESP_LOGE("MAIN", "Login başarisiz, ilerlenemiyor");
     } else {

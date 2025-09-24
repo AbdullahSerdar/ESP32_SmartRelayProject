@@ -1,0 +1,1 @@
+The 'Board' folder contains the 3D view of Version_2. The 'Web' folder is the web design I created to operate the system. (The frontend and backend code of the web design has not been shared.)
