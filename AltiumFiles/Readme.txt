@@ -1,0 +1,1 @@
+Version_1.PcbDoc' file contains the power line, relay, and ESP32-C3 design. The 'Version_2.PcbDoc' file includes the power line, relay, ESP32-S3, and other sensor designs. The provided schematic corresponds to Version_2.
