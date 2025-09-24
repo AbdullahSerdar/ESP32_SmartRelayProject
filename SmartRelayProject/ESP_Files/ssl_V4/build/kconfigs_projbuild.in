@@ -1,0 +1,7 @@
+source "C:/Users/serda/esp/v5.0.8/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/serda/esp/v5.0.8/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/serda/esp/v5.0.8/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/serda/esp/v5.0.8/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/serda/esp/v5.0.8/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/serda/ESP_project/ssl/main/Kconfig.projbuild"
+source "C:/Users/serda/esp/v5.0.8/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
